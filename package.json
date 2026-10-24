@@ -43,7 +43,7 @@
   "homepage": "https://github.com/vibeflowing-inc/vibe_figma#readme",
   "license": "FSL-1.1-MIT",
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=22.23.4 <23 || >=24.22.1 <25 || >=26.12.1 <27"
   },
   "scripts": {
     "dev": "bun run --hot src/index.ts",
